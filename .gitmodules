@@ -1,0 +1,3 @@
+[submodule "modules/library-demo-a"]
+	path = modules/library-demo-a
+	url = git@github.com:AlexOreshkevich/library-demo-a.git
