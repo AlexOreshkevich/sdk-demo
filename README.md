@@ -16,7 +16,7 @@ Create `dev` branch in your new library candidate first of all.
 
 ```shell
 git submodule add git@github.com:AlexOreshkevich/library-demo-a.git modules/library-demo-a
-git commit -am "Added new submodule dm-core-api"
+git commit -am "Added new submodule MODULE NAME"
 git push
 ```
 
